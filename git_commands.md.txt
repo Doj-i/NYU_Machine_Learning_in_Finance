@@ -1,0 +1,6 @@
+To rebase branch 'test' onto branch 'master' do this:
+
+git checkout test
+git rebase master
+git checkout master
+git merge test
