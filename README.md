@@ -16,7 +16,7 @@ of machine learning, with a focus on applications of ML to various practical pro
 - [Absorption Ratio via PCA](https://github.com/Doj-i/Machine_Learning_in_Finance/blob/master/Portfolio%20Construction%20using%20PCA/Trading%20Strategy%20based%20on%20PCA%20in%20TF_ML2_ex5_Course%20Project.ipynb)
 
 ### [Reinforcement Learning in Finance](https://www.coursera.org/learn/reinforcement-learning-in-finance)
-- Discrete-time Black Scholes model
+- [Discrete-time Black Scholes model](https://github.com/Doj-i/Machine_Learning_in_Finance/blob/master/Revisiting%20Black-Scholes%20model%20-%20Q%20Learning/Discrete-time%20Black%20Scholes%20model.ipynb) 
 - QLBS Model Implementation
 - Fitted Q-Iteration
 - IRL Market Model Calibration
