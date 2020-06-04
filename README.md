@@ -5,8 +5,8 @@ of machine learning, with a focus on applications of ML to various practical pro
 
 ### [Guided Tour of Machine Learning in Finance](https://www.coursera.org/learn/guided-tour-machine-learning-finance?)
 - [Euclidean Distance Calculation](https://github.com/Doj-i/Machine_Learning_in_Finance/blob/master/Building%20Regression%20models%20in%20TensorFlow/Euclidian_Distance_ML1_ex1.ipynb)
-- [Linear Regression]
-- [Tobit Regression]
+- [Linear Regression](https://github.com/Doj-i/Machine_Learning_in_Finance/blob/master/Building%20Regression%20models%20in%20TensorFlow/Linear_Regress_in_TensorFlow_ML1_ex2.ipynb)
+- [Tobit Regression](https://github.com/Doj-i/Machine_Learning_in_Finance/blob/master/Building%20Regression%20models%20in%20TensorFlow/Tobit_Regression_with_TensorFlow_ML1_ex3.ipynb)
 - [Logistic Regression: Bank defaults prediction using FDIC dataset](https://github.com/Doj-i/Machine_Learning_in_Finance/blob/master/Modeling%20of%20Bank%20Failures%20by%20FDIC/Bank_failure_ML1_ex4_Logistic%20Regression%20in%20TF.ipynb)
 
 ### [Fundamentals of Machine Learning in Finance](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance?)
