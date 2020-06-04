@@ -24,4 +24,4 @@ of machine learning, with a focus on applications of ML to various practical pro
 ### [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
 - FINAL PROJECT: The "Quantum Equlibrium-Disequlibrium" (QED) IRL-based model of stock returns 
 
-![Certificate EVME5T5EBUKQ](https://user-images.githubusercontent.com/12927664/83816723-e4502c80-a677-11ea-837c-b9c409056e82.png)
+<img src="https://user-images.githubusercontent.com/12927664/83816723-e4502c80-a677-11ea-837c-b9c409056e82.png" width="200">
